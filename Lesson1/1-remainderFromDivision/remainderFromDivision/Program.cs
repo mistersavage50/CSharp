@@ -19,8 +19,8 @@ namespace remainderFromDivision
         {
             int a = 17;
             int b = 4;
-            int quotient = a / b;
-            int remainder = a % b;
+            var quotient = a / b;
+            var remainder = a % b;
 
 
             Console.WriteLine(a + " / " + b + " = " + quotient + " остаток " + remainder);

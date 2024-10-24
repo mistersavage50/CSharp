@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Lesson1",
+    "\\Lesson1\\1-remainderFromDivision\\remainderFromDivision"
   ],
-  "SelectedNode": "\\10-months.sln",
+  "SelectedNode": "\\Lesson1\\2-fizzBuzz",
   "PreviewInSolutionExplorer": false
 }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Uvarov.MN\\Source\\Repos\\CSharp\\Lesson1\\4-minMaxFromArr\\6-twoVehicles\\6-twoVehicles.csproj",
-      "projectName": "6-twoVehicles",
-      "projectPath": "C:\\Users\\Uvarov.MN\\Source\\Repos\\CSharp\\Lesson1\\4-minMaxFromArr\\6-twoVehicles\\6-twoVehicles.csproj",
+      "projectUniqueName": "C:\\Users\\Uvarov.MN\\source\\repos\\CSharp\\Lesson1\\7-twoVehicles\\7-twoVehicles.csproj",
+      "projectName": "7-twoVehicles",
+      "projectPath": "C:\\Users\\Uvarov.MN\\source\\repos\\CSharp\\Lesson1\\7-twoVehicles\\7-twoVehicles.csproj",
       "packagesPath": "C:\\Users\\Uvarov.MN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Uvarov.MN\\Source\\Repos\\CSharp\\Lesson1\\4-minMaxFromArr\\6-twoVehicles\\obj\\",
+      "outputPath": "C:\\Users\\Uvarov.MN\\source\\repos\\CSharp\\Lesson1\\7-twoVehicles\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Uvarov.MN\\AppData\\Roaming\\NuGet\\NuGet.Config",
